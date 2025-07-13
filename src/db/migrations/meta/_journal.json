@@ -8,6 +8,20 @@
       "when": 1752359285973,
       "tag": "0000_furry_riptide",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752430409143,
+      "tag": "0001_good_scalphunter",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752432849416,
+      "tag": "0002_mighty_cargill",
+      "breakpoints": true
     }
   ]
 }

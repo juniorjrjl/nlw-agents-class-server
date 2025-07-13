@@ -1,2 +1,2 @@
-# npm run drizzle:migration:apply
+npm run db:migrate
 npm run dev
